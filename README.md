@@ -17,7 +17,7 @@ This repository contains two Python scripts demonstrating the use of MQTT (Messa
 1. Clone this repository:
    ```bash
    git clone https://github.com/PraharshG/mqtt-servers.git
-   cd mqtt-temperature-monitoring
+   cd mqtt-servers
    ```
 2. Install the required Python package:
    ```bash
